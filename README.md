@@ -1,4 +1,4 @@
-# Youtube Video Downloader
+# Music Downloader
 Youtube müziklerinizi mp3 şeklinde indirmeye yarayan ufak proje.
 
 **KULLANIM**
