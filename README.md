@@ -2,7 +2,7 @@
 Youtube müziklerinizi mp3 şeklinde indirmeye yarayan ufak proje.
 Bu uygulama Chrome 96.0.4664 ... ve ChromeDriver 96.0.4664.35 sürümü kullanılarak yapılmıştır. Güncel ChromeDriver için: https://chromedriver.chromium.org
 Kullanmadan önce lütfen Chrome sürümünüz ile ChromeDriver sürümünüzün birbirini desteklediğine dikkat edin.
-Kurulumda virüs programı kurulumu engelleyebilir. Uygulama temizdir.
+Kurulumda virüs programı kurulumu engelleyebilir. Uygulama temizdir. Sorular için Discord: DeathLines#4555 ya da sunucu https://discord.gg/akvkYsZ68Z
 
 **KULLANIM**
 - **Sadece Youtube ve Spotify linklerini destekler.**
