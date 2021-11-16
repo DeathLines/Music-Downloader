@@ -14,4 +14,4 @@ Kurulumda virüs programı kurulumu engelleyebilir. Uygulama temizdir. Sorular i
 **NASIL İNDİRİLİR**
 
 - 1-) **Yukarıdaki Music Downloader Setup.exe'ye tıklayınız.**
-- 2-)**Ekranda bulunan download tuşuna basınız. Uygulama inmeye başlayacaktır.**
+- 2-) **Ekranda bulunan download tuşuna basınız. Uygulama inmeye başlayacaktır.**
