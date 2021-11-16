@@ -10,3 +10,8 @@ Kurulumda virüs programı kurulumu engelleyebilir. Uygulama temizdir. Sorular i
 - **"Links" dosyasının konumu hata vermesi durumunda konumu manuel olarak değiştirebilirsiniz.**
 - **Linkleri dosya konumundaki "Links" adlı txt dosyasına yazılmalıdır. Links dosyasına her satırda 1 link olmak üzere yazılması gerekir. Yani linkler alt alta olmalıdır. Örnek: https://prnt.sc/1zpozcl Neden exe üzerinden yapmadın derseniz üşendim. 🙄🙄**
 - **"Links" dosyasına linkleri koyduğunuz halde hata verirse ya xpathler'de sorun olmuştur ya da chromedriver sürümü güncel değildir. Eğer chromedriver güncel değilse manuel olarak güncellenmesi gerekir. Üst kısımda link verilmiştir.**
+
+**NASIL İNDİRİLİR**
+
+- 1-) **Yukarıdaki Music Downloader Setup.exe'ye tıklayınız.**
+- 2-)**Ekranda bulunan download tuşuna basınız. Uygulama inmeye başlayacaktır.**
